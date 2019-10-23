@@ -1,1 +1,1 @@
-# ylber-xhambazi.tk
+# ylber-xhambazi.com

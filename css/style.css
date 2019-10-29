@@ -36,7 +36,7 @@
 /* [ GENERAL ] */
 
 /*================================================== */
-@import "{{ ../index.html }}";
+@import url(" ../index.html");
 body,
 html {
 	font-size: 100%;

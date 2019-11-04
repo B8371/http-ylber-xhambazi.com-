@@ -1977,6 +1977,9 @@ body.blog .pagination li a i {
 	.comments-form form .input-field label {
 		width:85% !important;
 	}
+	.responsive-img{
+		margin: 11% 0 20% 0%;
+	}
 }
 
 @media (max-width: 480px) {
